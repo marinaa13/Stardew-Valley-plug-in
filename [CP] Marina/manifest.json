@@ -1,0 +1,11 @@
+{
+  "Name": "AddingMyself",
+  "Author": "Marina",
+  "Version": "1.0.0",
+  "Description": "A mod that adds myself as a character in the game.",
+  "UniqueID": "Marina.AddingMyself",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

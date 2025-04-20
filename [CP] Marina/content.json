@@ -1,0 +1,39 @@
+{
+  "Format": "1.28.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Marina",
+      "FromFile": "assets/sprites.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/Marina",
+      "FromFile": "assets/portraits.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Marina",
+      "FromFile": "assets/dialogue.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/schedules/Marina",
+      "FromFile": "assets/schedule.json"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCDispositions",
+      "Entries": {
+        "Marina": "teen/neutral/outgoing/positive/female/datable/Sebastian/Town/winter 13//BusStop 12 11 /Marina"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Marina": "For me? Oh my god, that's amazing!$h/-80 64 72 228 614/Thank you! I really like this.$l/-79 212 227/Uhm.. thanks, I guess?/213 247 346/Ew, I hate this. Why would you give it to me?$a/-4 306/That was very nice of you./233 340 395/ "
+      }
+    }
+  ]
+}

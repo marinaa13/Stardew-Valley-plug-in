@@ -1,0 +1,15 @@
+{
+  "winter_13": "1100 Town 31 78 1/1400 Town 17 96/1800 Saloon 16 20 0/2300 BusStop 12 10 0",
+  "fall_21": "830 Hospital 14 16 3/1030 Hospital 6 17 0/1300 JojaMart 7 8 0/2300 BusStop 12 10 0 ",
+  "summer": "900 Beach 43 24/1300 Town 88 93 0/1600 Town 16 13/1830 Salon 16 20 0/2300 BusStop 12 10 0",
+  "winter": "1100 Forest 34 25/1430 Town 43 77/1900 Saloon 16 20 0/2300 BusStop 12 10 0 ",
+  "Mon": "730 ArchaeologyHouse 14 14/1030 ArchaeologyHouse 16 11 1/1430 Town 43 77/1800 Beach 19 24 3/2300 BusStop 12 10 0",
+  "Tue": "GOTO Mon",
+  "Wed": "GOTO Mon",
+  "Thu": "GOTO Mon",
+  "Fri": "730 ArchaeologyHouse 14 14/930 ArchaeologyHouse 16 10 1/1430 Town 43 77/1900 Saloon 33 18 0/2300 BusStop 12 10 0",
+  "Sat": "1000 Mountain 47 24 1/1330 ScienceHouse 8 20 0/1700 CommunityCenter 24 17 0/2300 BusStop 12 10 0",
+  "Sun": "1000 SeedShop 12 27 3/1300 JojaMart 18 15 1/1500 JojaMart 16 22 0/1700 Town 22 27 1/2300 BusStop 12 10 0 ",
+  "rain": "830 BathHouse_WomensLocker 9 23 0/1000 BathHouse_Pool 8 15 1/1430 BathHouse_WomensLocker 4 5 0/1700 Saloon 23 18 /2300 BusStop 12 10 0",
+  "spring": "700 Town 42 102 2/1030 SamHouse 8 12 2/1400 Town 6 72 1/1700 SamHouse 2 21 0/1900 SamHouse 8 5 3/2100 Town 6 89 2/2300 BusStop 12 10 0"
+}
